@@ -69,3 +69,6 @@ https://chrome.google.com/webstore/detail/transpose-pitch-loop-for/ioimlbgefgado
 
 # UnXSS
 https://chrome.google.com/webstore/detail/unxss/cbjmpjkhiafmdnjnigdbelcnbihgpmge?utm_source=chrome-app-launcher-info-dialog
+
+# JavaScript and CSS Code Beautifier
+https://chrome.google.com/webstore/detail/javascript-and-css-code-b/iiglodndmmefofehaibmaignglbpdald
