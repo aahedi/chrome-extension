@@ -75,4 +75,4 @@ https://chrome.google.com/webstore/detail/unxss/cbjmpjkhiafmdnjnigdbelcnbihgpmge
 https://chrome.google.com/webstore/detail/javascript-and-css-code-b/iiglodndmmefofehaibmaignglbpdald
 
 ## d3coder
-https://chrome.google.com/webstore/detail/d3coder/gncnbkghencmkfgeepfaonmegemakcol/related?hl=id
+https://chrome.google.com/webstore/detail/d3coder/gncnbkghencmkfgeepfaonmegemakcol
