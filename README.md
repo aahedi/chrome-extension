@@ -76,3 +76,9 @@ https://chrome.google.com/webstore/detail/javascript-and-css-code-b/iiglodndmmef
 
 ## d3coder
 https://chrome.google.com/webstore/detail/d3coder/gncnbkghencmkfgeepfaonmegemakcol
+
+## Luminous: JavaScript events blocker
+https://chrome.google.com/webstore/detail/luminous-javascript-event/baacpbikplogpeecclpnajnlghmcldkb
+
+## Visual Event
+https://chrome.google.com/webstore/detail/visual-event/pbmmieigblcbldgdokdjpioljjninaim
