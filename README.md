@@ -82,3 +82,9 @@ https://chrome.google.com/webstore/detail/luminous-javascript-event/baacpbikplog
 
 ## Visual Event
 https://chrome.google.com/webstore/detail/visual-event/pbmmieigblcbldgdokdjpioljjninaim
+
+## Website Blocker
+https://chrome.google.com/webstore/detail/website-blocker/konkmpfpnnpndcmnmbiaamlfaikhhcga
+
+## Block Site
+https://chrome.google.com/webstore/detail/block-site/lebiggkccaodkkmjeimmbogdedcpnmfb
