@@ -23,8 +23,8 @@ https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafj
 ## Mercury Reader
 https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi
 
-## Moesif Origin & CORS Changer
-https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc
+## Allow CORS: Access-Control-Allow-Origin
+https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf
 
 ## Easy QR Code
 https://chrome.google.com/webstore/detail/easy-qr-code/emlhjldmodkejoblhpbldpbddilijblk
@@ -88,3 +88,6 @@ https://chrome.google.com/webstore/detail/website-blocker/konkmpfpnnpndcmnmbiaam
 
 ## Block Site
 https://chrome.google.com/webstore/detail/block-site/lebiggkccaodkkmjeimmbogdedcpnmfb
+
+## Pop up blocker for Chrome™ - Poper Blocker
+https://chrome.google.com/webstore/detail/pop-up-blocker-for-chrome/bkkbcggnhapdmkeljlodobbkopceiche?utm_source=chrome-app-launcher-info-dialog
