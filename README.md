@@ -26,8 +26,11 @@ https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpo
 ## Allow CORS: Access-Control-Allow-Origin
 https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf
 
-## Easy QR Code
-https://chrome.google.com/webstore/detail/easy-qr-code/emlhjldmodkejoblhpbldpbddilijblk
+## Show My IP Addresses
+https://chrome.google.com/webstore/detail/show-my-ip-addresses/jephmlgehnceimcjkmmafjmlmmjgdnnl
+
+## QR Code generator
+https://chrome.google.com/webstore/detail/qr-code-generator/gaogddlencedgoajnmhcocpefinhjckh
 
 ## User JavaScript and CSS
 https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld
