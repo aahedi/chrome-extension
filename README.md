@@ -2,6 +2,9 @@
 ## AdBlock
 https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom
 
+## DownThemAll!
+https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge
+
 ## Auto Refresh Blocker
 https://chrome.google.com/webstore/detail/auto-refresh-blocker/nmhmgghfmjjoejobimppckbalonobkck?hl=en
 
