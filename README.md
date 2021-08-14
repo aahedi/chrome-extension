@@ -8,14 +8,14 @@ https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgi
 ## Membuat link download otomatis
 ```
 function buat_link(total){
-	var jumlah = total+1
+	var jumlah = total+1;document.body.innerHTML='';
     for (var i = 1; i < jumlah; i++) {
 	    var els = document.createElement("a");
-		    els.setAttribute('href', 'https://quranwbw.com/assets/data/'+i+'/word-translations/arabic.json?v=27');
+		    els.setAttribute('href', 'https://quranwbw.com/assets/data/'+i+'/word-translations/english.json?v=27');
 		    els.innerHTML=i;
 		document.body.appendChild(els);
     }
-}
+}buat_link(114);
 ```
 
 ## Auto Refresh Blocker
