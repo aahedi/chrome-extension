@@ -2,6 +2,9 @@
 ## AdBlock
 https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom
 
+## Mouse Tooltip Translator
+https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom
+
 ## DownThemAll!
 https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge
 
